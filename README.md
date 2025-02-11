@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Antony,, @Star-boy1
-- 👀 I’m interested in front end web dev as well as cybersecurity
+- 👀 I’m interested in front end web dev, designing as well as cybersecurity
 - 🌱 I’m currently learning linux and js
 - 💞️ I’m looking to collaborate on front-end web dev as well as cybersec projects
 - 📫 Reach me via the email: ambasaantony329@gmail.com
